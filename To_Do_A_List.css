@@ -1,0 +1,24 @@
+Body{
+
+font-family :Arial;
+Text-align : Center;
+background-color :lightblue;
+}
+h1{
+    color:darkblue;
+}
+input{
+    padding: 10Px;
+    width:200px;
+}
+button{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    curser:pointer;
+}
+li{
+    margin: 15px;
+    font-size: 20px;
+}
